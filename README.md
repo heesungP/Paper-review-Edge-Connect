@@ -1,6 +1,6 @@
 # Paper-review-Edge-Connect
 
-### - Paper : Edgeconnect: Generative image inpainting with adversarial edge learning.
+### - Paper : [Edgeconnect: Generative image inpainting with adversarial edge learning]
 ### - Author : Nazeri, K., Ng, E., Joseph, T., Qureshi, F. Z., & Ebrahimi, M. 
 ### - Cite as : arXiv preprint arXiv:1901.00212. (2019).
 
