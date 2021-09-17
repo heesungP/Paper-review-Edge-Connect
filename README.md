@@ -7,7 +7,8 @@
 ![image](https://user-images.githubusercontent.com/67678405/122564495-61322680-d080-11eb-9a38-8c9e2d8d9b5c.png)
 <div style="text" align="center"> - Edge Connect structure diagram made by Author - </div>
 
-# ■ HeeSungP's presentation material (pdf, Korean) : [Edge-Connect_HeeSungP-SSL.pdf](https://github.com/HeeSungP/Paper-review-Edge-Connect/files/6677160/Edge-Connect_HeeSungP-SSL.pdf)
+# ■ HeeSungP's presentation material (pdf, Korean)
+## > [Edge-Connect_HeeSungP-SSL.pdf](https://github.com/HeeSungP/Paper-review-Edge-Connect/files/6677160/Edge-Connect_HeeSungP-SSL.pdf)
 
 # ■ Information
 
